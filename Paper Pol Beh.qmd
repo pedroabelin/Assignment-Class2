@@ -4,23 +4,221 @@ format: html
 editor: visual
 ---
 
-## Quarto
-
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
-
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
 ```{r}
-1 + 1
+
 ```
 
-You can add options to executable code like this
+Pedro Abelin
+
+Pedro - GVPT
+771: Seminar in American Political Behavior
+
+**The Nature of Belief Systems in Mass Publics: a theory of elitism**
+
+**Introduction**
+
+The pieces of week four present an essential discussion about ideology
+(or belief systems) and reasoning and how citizens make sense of reality. In
+this paper, I focus on the seminal paper of Converse (1964) and present a
+methodological and substantive critique of the work. I contend that the dualism
+of the conservative-liberal continuum cannot encompass the complexity of the
+social fabric. Furthermore, Converse has a narrow conception of ideology, which
+directly influences the conclusions drawn from the survey. Finally, I will
+argue that his conclusions reinforce the elitist thesis of democratic theory.
+
+**The Nature of Belief Systems in Mass Publics: core argument**
+
+Using survey data from 1956, 1958, and 1960, Converse (1964) analyzes
+and measures ideologies (the author prefers to call "belief systems) and
+party identification in the United States. The author defines a belief system
+"as a configuration of ideas and attitudes in which the elements are bound
+together by some form of constraint or functional interdependence" (1964,
+p. 3). In this sense, the author claim that "constraint" is
+understood as the extent to which we would successfully predict that a person
+based upfront knowledge that an individual has a specified attitude, that he or
+she has certain additional ideas and attitudes (Idem). Converse found, however,
+that the population does not elaborate on their opinions and make sense of
+reality in an ideological sense. For instance, only 10% of people could even
+recognize and understand what terms like "conservatism" and "liberalism"
+meant (Converse, 1964. 25). That is, people do not think consistently, lacking
+a sophisticated ideological structure, where ideology does not play a
+significant role in the way people interprets events and shapes their opinions.
+In this sense, the liberal-conservative continuum -- critical to the American
+political discussion -- is an abstraction of a high order, which are not a
+typical conceptual tool for ordinary people (1964, p. 13).
+
+The elites, on the
+other side, have different kinds and levels of constraints across belief
+elements (Converse, 1964, p. 32), and a highly-structured belief system. In
+other words, while the masses have a volatile belief system, the elites
+demonstrate a predictable and sophisticated system. The masses, poorly educated,
+would be relegated to thinking about more "concrete" things related
+to their immediate world - like their family budget - while the elites would
+have the capacity to think in more abstract ways, such as many policy-oriented
+issues (Converse, 1964, p. 11).
+
+**Conservative-Liberal continuum: a real consensus?**
+
+What does it mean to be a liberal or a conservative? Although (mainly)
+American Political Science uses "liberalism" as a synonym for
+progressive politics, the truth is that scholars may be using these
+terminologies less rigorously than we imagine. Would classical thinkers of
+political thought that we consider liberal, for example, be considered liberals
+within the liberal-conservative continuum? For example, John Locke is
+considered the "father" of liberalism. Locke was enthusiastic of
+liberty and freedom since these liberties extend to the limits of the
+proprietors' interests (Locke, 1967). The classic liberal was the
+author of Carolina's absolute proprietary constitution in 1669, a document that
+sanctioned transatlantic slavery (Farr, 2020; Losurdo, 2014). In the same vein,
+we can think of the liberalism of the Founding Fathers and their relationship
+to slavery. For the Federalists, the people were invoked as a political
+category in favor of less democratic principles, as part of the content of the
+US constitution was to attenuate popular power in defense of private property
+(Wood, 2007, p. 192). Stuart Mill, the most influential liberal of the 19th
+century, although an advocate of suffrage for women and workers, was a defender
+of the "civilizational drive" of colonialism (Arneil, 1996; Bell,
+2010; Willians, 2021). These examples show that the divide between
+liberal/conservative may not make sense and that ideologies such as
+conservatism and liberalism can have the same philosophical matrix. Or, the
+reality can be more complex than our categories.
+
+This long introduction is not by chance. My goal is to demonstrate that
+1) the concepts of liberalism/conservatism are more multifaceted than we
+imagine 2) if the political theory itself and "experts" also use them
+in a diverse and sometimes non-rigorous way, why should we demand the masses
+have total clarity about what these terms are supposed to mean -- or the elites
+want to mean? However, I intend to go further in my critique: is it possible to
+gauge voting expertise by understanding terms such as liberal and conservative?
+Or rather, is complete comprehension of these terms a prerequisite for the
+voter's understanding of political events and phenomena?
+
+The elitist conclusions of Converse have many consequences. One of the
+leading direct consequences of Converse's finding is to assume that both the
+grammar and the mosaic of signs and meanings of the masses must be subordinate
+to the ones of the elites. First, one must ask why the use and recognition of
+Liberal and Conservative is used to evaluate political sophistication and competence.
+Second, ideology is a matter of "discourse" and not of
+"language" (Eagleton, 1993, p. 9). As Eagleton (Idem) argues, it is
+impossible to determine whether a statement is ideological in isolation from
+its discursive context. The same piece of language and the terms used by people
+can be ideological in one context, not in another; ideology is a function of
+the relation of an enunciation to its social context (Eagleton, 1993, p. 10).
+The survey results, ironically, may show more consistency in people's rationality
+than we think. This goes in the direction of the literature review
+provided by Jost et al. (2009). That is, even if people are not perfect in
+using abstract ideological concepts, the majority of the public can and do
+utilize a subset of fundamental values or principles that can be regarded as
+ideological (Jost et al., 2009, p. 311). In a similar direction, Sniderman et
+al. (1991) argue that people can, even if only temporarily, strengthen the ties
+between political ideas.
+
+Moreover, the apparent incoherence in the reasoning of
+the masses may indicate that the social fabric and masses' worldviews are more
+complex than Political Science models can account for. This multifaceted and
+complex reality is closely connected with what Converse understands as
+ideology. Although Converse prefers to use "belief systems," he tends
+to equalize the concepts. In this sense, Converse understands ideology as a
+simple set of abstract ideas or logical rules. However, ideologies, as Dias
+shows (1995, p. 27), are multiple and contradictory because they are
+rationalities of various classes at different times and conjunctures. In this
+sense, the social interests, which are historically positioned and articulated
+in a conflicting way, manifest themselves in the various and conflicting
+ideological discourses. Ideologies are a product of a specific time, and the
+mosaic of supposed inconsistencies that Converse found may be the shape in
+which certain ideologies were manifesting at that time. The American social
+fabric has changed a lot in the last decades, so a survey in the same
+parameters would probably find much less "inconsistency" among the
+representatives. This is not to suggest that people have become ideologically
+more sophisticated, but rather that the current contingencies are the result of
+a new historical process and that new kinds of antagonism politically produce
+the ontology of the social. The evidence brought by the growing literature on
+polarization is an example of this reality.
+
+Understanding that ideology is best explained by
+individuals' attributes (or lack thereof) exposes Converse's methodological
+individualism. Having people move their support from one side of the
+ideological spectrum to the other does not meet the expectations of a model
+premised on the conception of individuals with predefined preferences and
+constraints. In this sense, his methodology faces the limits to understanding
+the nature and logic of forming collective identities. Converse fails to
+capture a deep sense of morality, the logic and feelings that move those we try
+to understand. Participating (or not participating) in politics is not just a
+matter of pure information or the pursuit of individual interest. In order to
+understand the supposed inconsistency in people's reasoning, it is necessary to
+delve into the study of moral values, of the perception that political subjects
+have of reality, and to go deep into people's identities and representations.
+Such a strong statement that the masses, unlike the elites, have inconsistent
+and unsophisticated ideologies has significant consequences for democratic
+theory, as we will discuss in the concluding remarks. This urges a deeper study
+of people's values, which would require additional methods. In this sense,
+Converse would be benefited from the use of the focal groups' research
+technique. As a complementary technique, the focal groups could use the
+interactions between people to collect information about people's beliefs and
+perceptions of politics. This would allow Converse to understand better how
+people make sense of their realities. In addition, as Achen (1975) points out,
+Converse's own methodology has serious flaws. As he demonstrates (1975, p.
+1221), the respondent response variation shows Converse observational errors.
+The variability within the survey questions is the vagueness with which the
+subjacent attitude is reflected by the survey instrument -- when the survey
+questions are vague, entirely stable respondents will appear to be inconsistent
+(Idem). In this sense, the inconsistencies may reside in the questions
+themselves.
+
+**Final remarks: hypothesis and consequences to democratic theory**
+
+Converse relies on a notion of human nature that condemns the masses to total political ignorance. In this sense, he presents a very problematic
+hypothesis: the population is uninformed, irrational, selfish, and unable to
+govern itself. Most people would not be able to govern because they would
+decide irrationally and be easily manipulated by the \"political\". In this view,
+it is not enough to change institutions. After all, disinformation is found in
+individuals, not institutions (Miguel, 2002, p. 500). It is important to note
+how the notion of inequality is naturalized in this thesis - in which a
+dominated mass and the selected ones constitute the political elites. The
+selected groups would escape the mediocrity of the masses, destined to be
+dominated. In this sense, I argue that Converse's work contributes to the
+construction of an elitist hegemony in Political Science.
+
+**References**
+
+Achen, C. H. (1975). Mass political attitudes and the survey response. American
+Political Science Review, 69(4), 1218-1231.
+
+Arneil, B. (1996). John Locke and America: the defence of
+English colonialism. Oxford University Press.
+
+Bell, D. (2010). John Stuart Mill on Colonies. Political
+theory, 38(1), 34-64.
+
+Converse Philip, E. (1964). The Nature of Belief Systems in Mass Publics
+Ideology and Discontent David E. Apter New York Free Press, 206, 61.
+
+DIAS, E. (1995). Cidadania e racionalidade de classe. Universidade e
+Sociedade. Andes, São Paulo, (11).
+
+Eagleton, T. (1993). Ideology: an introduction.
+
+Farr, J. (2020). " Absolute Power and Authority": John Locke
+and the Revisions of The Fundamental Constitutions of Carolina. Locke
+Studies, 20, 1-49.
+
+Jost, John T., Christopher M. Federico, and Jaime L. Napier. 2009.
+\"Political ideology: Its structure, functions, and elective affinities.\" Annual
+review of psychology 60: 307-337.
+
+Losurdo, D. (2014). Liberalism: A counter-history. Verso Books.
+
+Miguel, L. F. (2002). A democracia domesticada: bases antidemocráticas
+do pensamento democrático contemporâneo. Dados, 45, 483-511.
+
+Sniderman, P. M., Brody, R. A., & Tetlock, P. E. (1993). Reasoning
+and choice: Explorations in political psychology. Cambridge University Press.
+
+Williams, D. (2021). John Stuart Mill and the practice of colonial rule
+in India. Journal of International Political Theory, 17(3), 412-428.
+
+Wood, E. M. (2007). Democracy against capitalism; Renewing
+historical materialism. Aakar Books.
 
 ```{r}
-#| echo: false
-2 * 2
-```
 
-The `echo: false` option disables the printing of code (only output is displayed).
+```
